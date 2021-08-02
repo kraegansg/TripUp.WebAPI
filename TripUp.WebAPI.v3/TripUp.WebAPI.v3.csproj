@@ -238,13 +238,29 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Trip\Index.cshtml" />
+    <Content Include="Views\Trip\Create.cshtml" />
+    <Content Include="Views\Trip\Details.cshtml" />
+    <Content Include="Views\Trip\Edit.cshtml" />
+    <Content Include="Views\Trip\Delete.cshtml" />
+    <Content Include="Views\ToDoList\Index.cshtml" />
+    <Content Include="Views\ToDoList\Create.cshtml" />
+    <Content Include="Views\ToDoList\Details.cshtml" />
+    <Content Include="Views\ToDoList\Edit.cshtml" />
+    <Content Include="Views\ToDoList\Delete.cshtml" />
+    <Content Include="Views\Pack\Index.cshtml" />
+    <Content Include="Views\Pack\Create.cshtml" />
+    <Content Include="Views\Pack\Details.cshtml" />
+    <Content Include="Views\Pack\Delete.cshtml" />
+    <Content Include="Views\Pack\Edit.cshtml" />
+    <Content Include="Views\Itinerary\Index.cshtml" />
+    <Content Include="Views\Itinerary\Create.cshtml" />
+    <Content Include="Views\Itinerary\Details.cshtml" />
+    <Content Include="Views\Itinerary\Delete.cshtml" />
+    <Content Include="Views\Itinerary\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Itinerary\" />
-    <Folder Include="Views\Pack\" />
-    <Folder Include="Views\ToDoList\" />
-    <Folder Include="Views\Trip\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
